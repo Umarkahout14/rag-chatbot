@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+env/
+
+# ChromaDB data
+data/chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+temp_*
+
+# IDE
+.vscode/
+.idea/
+
+# Hugging Face local model cache
+data/hf_cache/
+
+# Local secrets
+.env
+
+# Pip temporary cache
+.pip-temp/
