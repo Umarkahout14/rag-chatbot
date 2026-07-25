@@ -14,7 +14,7 @@ A production-style document question-answering assistant built with Retrieval-Au
 ## Live Links
 
 - GitHub: https://github.com/Umarkahout14/rag-chatbot
-- Live Demo: https://rag-chatbot-cqum4cgzpoy8zrhhtg6amp.streamlit.app
+- Live Demo: https://rag-chatbot-zqegvptq364a279zhgdxeh.streamlit.app
 
 ## What This Project Demonstrates
 
@@ -215,3 +215,4 @@ This project demonstrates practical AI engineering skills across LLM integration
 ## License
 
 Licensed under the Apache License 2.0. See [LICENSE](LICENSE).
+
